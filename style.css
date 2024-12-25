@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f1eee9;
+   
+}
+.btn{
+    background-color: #f9d678;;
+}
+.txt-color{
+    color: #475569;
+    font-weight: 500;
+}
+h1,h2{
+    color: #13313c;
+}
+.btn-color{
+    background-color: #e9a200;
+}
+.img-max{
+    max-width: 60px;
+}
+.bg-blakish{
+    background-color: #13313c;
+}
+main div a i:hover{
+    color: #e9a200 !important;
+}
