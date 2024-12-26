@@ -17,6 +17,9 @@ body{
 h1,h2{
     color: #13313c;
 }
+h1{
+    font-family:  "Rubik", serif;
+}
 .btn-color{
     background-color: #e9a200;
 }
